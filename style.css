@@ -1,0 +1,17 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: "Merriweather", serif;
+    font-weight: 300;
+    background-color: black;
+}
+
+body{
+    overflow-x: hidden;
+}
+.heading{
+    /* margin-top: 270px; */
+    font-size: 110px;
+    font-weight: 900;
+}
